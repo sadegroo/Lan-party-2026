@@ -39,7 +39,7 @@ Shrek is a large, green, physically intimidating ogre with a Scottish accent and
 
 ### PC Game Pass
 4. Halo Master Chief Collection (install all games) - Steam, Xbox[3]
-5. Halo Infinite - Steam, Xbox[3]
+5. 
 6. Zombie Army 4: Dead War - Steam, Xbox[3]
 7. Among Us - Steam, Xbox[3]
 8. Age of Mythology: Retold - PC Game Pass[15][16]
