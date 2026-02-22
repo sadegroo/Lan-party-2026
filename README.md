@@ -36,6 +36,7 @@ Shrek is a large, green, physically intimidating ogre with a Scottish accent and
 1. Rocket League - Steam, Epic[3]
 2. Counter Strike: Global Offensive - Steam[3]
 3. Unfortunate Spacemen - Steam (free)[14]
+4. Asphalt Legends - Epic (free)
 
 ### PC Game Pass
 4. Halo Master Chief Collection (install all games) - Steam, Xbox[3]
