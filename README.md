@@ -1,4 +1,5 @@
 # Shrek's Rules for LAN Parties 2026 - AI RAMageddon Edition
+<img src="resources/banner.gif" width="100%">
 
 Shrek's swamp is now powered by onion-layered neural nets, but those greedy AI data centers are hogging all the RAM like Donkey at a carrot buffet.[1][2] Corona's out, but if you show up with a virus in your code or outdated drivers, Shrek will feed you to the swamp AI—complete with hallucinations and infinite loops.[3] Disobedience means punishments like Ogre-roared kernel panics, intimidating VR roars, or a dose of "Swampware" malware.[3]
 
