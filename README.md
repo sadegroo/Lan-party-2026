@@ -46,7 +46,6 @@ Shrek is a large, green, physically intimidating ogre with a Scottish accent and
 8. Age of Mythology: Retold - PC Game Pass[15][16]
 9. Age of Empires III: Definitive Edition - PC Game Pass[17][18]
 10. Gang Beasts - Xbox Game Pass (PC via Xbox App/Steam cross)[19][20]
-11. Dirt Rally 2.0 - EA Play (via Game Pass Ultimate)[21]
 
 ### Pay Up, Donkey (or Game Pass where noted)
 12. Kristofs Game of choice that's actually on PC [22]
