@@ -34,7 +34,7 @@ Shrek is a large, green, physically intimidating ogre with a Scottish accent and
 
 ### Free-to-Play
 1. Rocket League - Steam, Epic[3]
-2. Counter Strike: Global Offensive - Steam[3]
+2. Counter Strike 2 - Steam[3]
 3. Unfortunate Spacemen - Steam (free)[14]
 4. Asphalt Legends - Epic (free)
 
